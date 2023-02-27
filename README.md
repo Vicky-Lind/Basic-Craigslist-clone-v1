@@ -1,2 +1,5 @@
-# Basic Craigslist clone w.API-v1
- A simple Craigslist clone that uses Django and API, following the yt. Clever Programmer.
+# Basic Craigslist clone-v1
+
+ A simple Craigslist clone-scraper that uses Django. 
+ 
+ This little project follows the yt video from Clever Programmer.
